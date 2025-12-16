@@ -13,7 +13,7 @@ Save all your Snapchat memories before the links expire!
 
 ### **2. Run Script**
 1. Create a folder in your desktop called snapchat-memories-download
-2. Open the ZIP file you downloaded from snapchat, then open the json folder
+2. Unbundle the ZIP file you downloaded from snapchat
 3. Drag and drop your `memories_history.json` and `generate.py` from this github into snapchat-memories-download
 4. Open Terminal (Mac) or Command Prompt (Windows)
 5. Navigate to that folder by entering in the terminal:
