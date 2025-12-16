@@ -1,4 +1,4 @@
-# 📸 Download Snapchat Memories
+# Download Snapchat Memories
 
 Save all your Snapchat memories before the links expire!
 
@@ -12,18 +12,9 @@ Save all your Snapchat memories before the links expire!
 3. Snapchat will email you a link to download a ZIP file containing your memories.
 
 ### **2. Run Script**
-1. Create a folder in your desktop called snapchat-memories-download
-2. Unbundle the ZIP file you downloaded from snapchat
-3. Drag and drop your `memories_history.json` and `generate.py` from this github into snapchat-memories-download
-4. Open Terminal (Mac) or Command Prompt (Windows)
-5. Navigate to that folder by entering in the terminal:
-   ```bash
-   cd path/to/your/folder
-   ```
-   In this case (if you made the folder in desktop):
-   ```bash
-   cd desktop/snapchat-memories-download
-   ```
+1. Unbundle the ZIP file you downloaded from snapchat
+2. Move the `memories_history.json` and `generate.py` from this github into the same folder
+3. cd into that folder
 6. Run:
    ```bash
    python3 generate.py
@@ -34,5 +25,3 @@ Save all your Snapchat memories before the links expire!
 2. Open the new HTML `memories_gallery.html`
 
 **Done!** Everything is saved locally and works offline forever. 🎉
-
----
