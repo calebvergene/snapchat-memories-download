@@ -4,8 +4,6 @@ Save all your Snapchat memories before the links expire!
 
 ---
 
-## ⚡️ Quick Start (5 minutes)
-
 ### **1. Get Your Snapchat Data**
 1. Open Snapchat and go to Settings → My Data.
 2. Request your Memories and select JSON formatting.
